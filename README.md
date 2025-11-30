@@ -52,23 +52,21 @@ Construir una aplicación web que:
 
 ```
 📦 proyecto-ecommerce
-├── index.html
-├── script.js
-├── styles.css
-└── assets/
+├── index.html # estructura html del sitio
+├── script.js # interactividad de productos y generación de html dinámico
+├── styles.css # estilos
+└── assets/ # imágenes del sitio
 ```
+
+---
+
+![Captura del proyecto](./assets/screenshot-fake_ecommerce.jpg)
 
 ## Cómo probar la aplicación
 
-1. Clonar el repositorio:
+1. Ingresar a la [🌐 Demo](https://luciano-oviedo.github.io/Fake-ecommerce/).
 
-```
-git clone https://github.com/Luciano-Oviedo/Fake-ecommerce.git
-```
-
-2. Abrir el archivo `index.html` en el navegador.
-
-3. Interactuar con la aplicación:
+2. Interactuar con la aplicación:
 
    - Los productos se cargarán automáticamente desde la API.
 
